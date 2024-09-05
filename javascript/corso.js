@@ -35,6 +35,7 @@ c = a + b
 console.log("La somma vale " + c) 
 
 
+
 /*
 var a;
 var b;
